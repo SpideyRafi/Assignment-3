@@ -6,6 +6,10 @@ body {
     z-index: 2;
 }
 
+.carousel-caption h1 {
+    color: aqua;
+}
+
 .carousel-inner::before {
     content: "";
     position: absolute;
